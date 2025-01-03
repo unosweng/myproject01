@@ -6,6 +6,7 @@ Welcome to MyProject! This project is designed to demonstrate Git workflows.
 - Feature A
 - Feature B
 - Feature C (added by developer1)
+- Feature D (added by developer2) 
 
 ## Installation
 Run the following command to install:
